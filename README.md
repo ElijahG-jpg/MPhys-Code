@@ -1,6 +1,9 @@
 # MPhys-Code
 Code and plots relevant to work done during my MPhys Project.
 
+The github is split into 2 parts; separating work done in Year 3 of my Physics Degree (First year for the project) and Year 4 of my degree (Second year for the project).
+
+# Year 3
 "Fibres" folder contains code relevant to working with Multimode Optical Fibres
 
 "Modes Folder" folder contains png plots of all 42 fibre propagation invariant modes generated from the MATLAB code provided to us (found in the "Fibres" folder).
